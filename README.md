@@ -15,7 +15,7 @@ Avant d'exécuter le script, assurez-vous d'avoir installé les dépendances sui
 1. Clonez le dépôt sur votre machine locale :
 
 ```bash
-git clone https://github.com/votre-utilisateur/scraper-facebook.git
+git clone git@github.com:yasserxkamal/Fb__scraper.git
 ```
 
 2. Accédez au répertoire du projet :
